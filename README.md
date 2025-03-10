@@ -1,1 +1,1 @@
-# s2ds2025
+# Pandas exercises
