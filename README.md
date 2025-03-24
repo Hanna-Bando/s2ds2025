@@ -1,7 +1,9 @@
 # s2ds2025
 Team leader: Hanna Bańdo  
 Collaborator: Zofia Dechnik
-Exercises related to the data_wrangling:
-[Exercise 1](Exercise 1.md)
-Exercise 2.md
-Exercise 3.md
+
+## Exercises related to data_wrangling
+- [Exercise 1](data_wrangling/Exercise%201.md)
+- [Exercise 2](data_wrangling/Exercise%202.md)
+- [Exercise 3](data_wrangling/Exercise%203.md)
+
