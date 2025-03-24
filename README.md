@@ -7,3 +7,5 @@ Collaborator: Zofia Dechnik
 - [Exercise 2](data_wrangling/Exercise%202.md)
 - [Exercise 3](data_wrangling/Exercise%203.md)
 
+## Exercises related to pipes
+- [Exercise 1](pipes_and_more/Report1.md)
