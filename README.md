@@ -2,6 +2,9 @@
 Team leader: Hanna Bańdo  
 Collaborator: Zofia Dechnik
 
+## Exercise related to data cleansing 
+- - [Exercise 4](data_wcleansing/Exercise4.md)
+
 ## Exercises related to data wrangling
 - [Exercise 1](data_wrangling/Exercise%201.md)
 - [Exercise 2](data_wrangling/Exercise%202.md)
