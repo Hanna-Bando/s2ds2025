@@ -3,9 +3,9 @@ Team leader: Hanna Bańdo
 Collaborator: Zofia Dechnik
 
 ## Exercise related to data visualization
-- [Exercise 5](data_visualization/Exercise5.md)
-- [Exercise 6](data_visualization/Exercise6.md)
-- #### [EXERCISES COMBINED INTO ONE](data_visualization/data_visualization_merged.md)
+- [Exercise 5](data-visualization/Exercise5.md)
+- [Exercise 6](data-visualization/Exercise6.md)
+- #### [EXERCISES COMBINED INTO ONE](data-visualization/data_visualization_merged.md)
 
 ## Exercise related to data cleansing 
 - [Exercise 4](data_cleansing/Exercise4.md)
