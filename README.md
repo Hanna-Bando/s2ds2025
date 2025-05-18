@@ -2,6 +2,10 @@
 Team leader: Hanna Bańdo  
 Collaborator: Zofia Dechnik
 
+## Exercise related to univariate analysis
+- [Exercise 8](univariate_analysis/Exercise8.md)
+
+
 ## Exercise related to data visualization
 - [Exercise 5](data-visualization/Exercise5.md)
 - [Exercise 6](data-visualization/Exercise6.md)
