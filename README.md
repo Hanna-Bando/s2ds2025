@@ -2,9 +2,11 @@
 Team leader: Hanna Bańdo  
 Collaborator: Zofia Dechnik
 
+## Exercise related to bivariate analysis
+- [Exercise 9](bivariate_analysis/Exercise9.md)
+
 ## Exercise related to univariate analysis
 - [Exercise 8](univariate_analysis/Exercise8.md)
-
 
 ## Exercise related to data visualization
 - [Exercise 5](data-visualization/Exercise5.md)
@@ -22,3 +24,4 @@ Collaborator: Zofia Dechnik
 
 ## Exercises related to pipes
 - [Exercise 1](pipes_and_more/Report1.md)
+
