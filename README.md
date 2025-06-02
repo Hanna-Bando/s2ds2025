@@ -2,6 +2,9 @@
 Team leader: Hanna Bańdo  
 Collaborator: Zofia Dechnik
 
+## Exercise related to regression analysis
+- [Exercise 10](regression_analysis/Exercise10.md)
+
 ## Exercise related to bivariate analysis
 - [Exercise 9](bivariate_analysis/Exercise9.md)
 
